@@ -39,10 +39,6 @@ Works also in non interactive mode.
 Usage
 In order to run this program,
 
-Clone This Repo;
-
-git clone https://github.com/TosinISOGUN/simple_shell.git
-
 Compile it with;
 
 gcc 4.8.4 -Wall -Werror -Wextra -pedantic *.c -o hsh.
